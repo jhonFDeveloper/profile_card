@@ -54,14 +54,6 @@
 📱 Si quieres hacerlo totalmente responsivo, puedes agregar media queries.
 
 ---
-## 👨‍💻 Autor
-
-**Jhon F.**
-📍 Medellín
-💼 [@JhonFdev](https://github.com/jhonFDeveloper)
-
----
-
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia **MIT** — libre para usar y modificar.
