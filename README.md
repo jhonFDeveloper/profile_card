@@ -4,11 +4,6 @@
 > Ideal como componente para portfolios, redes sociales o dashboards personales.
 
 ---
-
-## ✨ Vista previa
-
-![Captura del proyecto](./assets/img/perfil.png)
-
 > 💡 Diseño centrado, con fondo azul, borde redondeado, avatar circular y sombras suaves.
 
 ---
